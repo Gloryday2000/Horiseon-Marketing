@@ -9,3 +9,8 @@ Installation:
  3. clone project onto computer
 
 
+
+    <img src="./assets/images/Screen Shot 2022-07-14 at 7.47.38 PM.png" alt=screen shot"/>
+
+
+
